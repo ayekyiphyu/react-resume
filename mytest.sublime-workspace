@@ -1,0 +1,704 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"React",
+				"React"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"About",
+				"AboutList"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"wor",
+				"work"
+			],
+			[
+				"w",
+				"work"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"pr",
+				"props\tReact: this.props"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"Slider",
+				"Slider01"
+			],
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"ima",
+				"image-01"
+			],
+			[
+				"img",
+				"image-01"
+			],
+			[
+				"Reac",
+				"ReactWeather"
+			],
+			[
+				"li",
+				"Link"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"jq",
+				"jquery-migrate-1"
+			],
+			[
+				"Per",
+				"prefectures"
+			],
+			[
+				"syt",
+				"stylesheet"
+			],
+			[
+				"fu",
+				"fullname"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"my",
+				"myaddress"
+			],
+			[
+				"ng",
+				"ng-app"
+			],
+			[
+				"angu",
+				"angular"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"myct",
+				"myctrl"
+			],
+			[
+				"emp",
+				"employee"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"chan",
+				"changeColor"
+			],
+			[
+				"Rea",
+				"ReactDOM"
+			],
+			[
+				"Re",
+				"ReactDOM"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Work.js",
+			"settings":
+			{
+				"buffer_size": 148,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Header.js",
+			"settings":
+			{
+				"buffer_size": 503,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 2115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/About.js",
+			"settings":
+			{
+				"buffer_size": 1701,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Home.js",
+			"settings":
+			{
+				"buffer_size": 2386,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/style.css",
+			"settings":
+			{
+				"buffer_size": 3713,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 386.0,
+		"history":
+		[
+			"npm install",
+			"npm start"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/AYEKIYPHYU/myproject",
+		"/C/Users/AYEKIYPHYU/myproject/images",
+		"/C/Users/AYEKIYPHYU/myproject/src",
+		"/C/Users/AYEKIYPHYU/myproject/src/images"
+	],
+	"file_history":
+	[
+		"/C/Users/AYEKIYPHYU/myproject/node_modules/analytics/lib/analytics.browser.cjs.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/App.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/index.js",
+		"/C/Users/AYEKIYPHYU/AppData/Roaming/Sublime Text 3/Packages/User/whatEverYourWan.sublime-build",
+		"/C/Users/AYEKIYPHYU/myproject/src/Home.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/Contactus.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/About.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/style.css",
+		"/C/Users/AYEKIYPHYU/myproject/src/Profile.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/Header.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/Footer.js",
+		"/C/Users/AYEKIYPHYU/myproject/node_modules/eslint/node_modules/regexpp/index.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/App.css",
+		"/C/Users/AYEKIYPHYU/myproject/src/consts.js",
+		"/C/Users/AYEKIYPHYU/api/src/key.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/api.js",
+		"/C/Users/AYEKIYPHYU/api/src/App.js",
+		"/C/Users/AYEKIYPHYU/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/C/Users/AYEKIYPHYU/myproject/src/Work.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/Skill.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/Experience.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/customer.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/FirstComponent.js",
+		"/C/Users/AYEKIYPHYU/myproject/src/App.test.js",
+		"/C/Users/AYEKIYPHYU/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/C/Program Files/Sublime Text 3/.js",
+		"/C/Users/AYEKIYPHYU/AppData/Roaming/Sublime Text 3/Packages/Babel/package.json",
+		"/C/Users/AYEKIYPHYU/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/AYEKIYPHYU/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/AYEKIYPHYU/myfirstreact/src/style.css",
+		"/C/Users/AYEKIYPHYU/myfirstreact/src/App.js",
+		"/C/Users/AYEKIYPHYU/myfirstreact/src/index.js",
+		"/C/Users/AYEKIYPHYU/myfirstreact/src/index.html",
+		"/C/Users/AYEKIYPHYU/myfirstreact/src/index.css",
+		"/C/Users/AYEKIYPHYU/Desktop/website/assets/index.html",
+		"/C/Users/AYEKIYPHYU/Desktop/photograph/index.html",
+		"/C/Users/AYEKIYPHYU/api/src/style.css",
+		"/C/Users/AYEKIYPHYU/api/src/index.js",
+		"/C/Users/AYEKIYPHYU/api/src/apiKey.js",
+		"/C/Users/AYEKIYPHYU/ex/.env.js",
+		"/C/Users/AYEKIYPHYU/test/src/App.js",
+		"/C/Users/AYEKIYPHYU/test/src/apiKey.js",
+		"/C/Users/AYEKIYPHYU/ex/.env",
+		"/C/Users/AYEKIYPHYU/Desktop/test-api/test.html",
+		"/C/Users/AYEKIYPHYU/Desktop/datatable.html",
+		"/C/Users/AYEKIYPHYU/Desktop/site.css",
+		"/C/New folder/Project Portal Client/Project Porta Client/Project Porta Client/Views/Home/Index.cshtml",
+		"/C/Users/AYEKIYPHYU/Desktop/text.html",
+		"/C/Users/AYEKIYPHYU/Desktop/AYE KYI PHYU(20191110)/Employee/dashboard.php",
+		"/C/xampp/htdocs/php/update.php",
+		"/C/xampp/htdocs/php/feedback.php",
+		"/C/xampp/htdocs/php/dashboard.php",
+		"/C/xampp/htdocs/php/add.php",
+		"/C/xampp/htdocs/php/test.php",
+		"/C/xampp/htdocs/php/performance-review.php",
+		"/C/xampp/htdocs/php/employee-view-assign.php",
+		"/C/xampp/htdocs/php/sample.php",
+		"/C/xampp/htdocs/php/delete.php",
+		"/C/xampp/htdocs/php/assign.php",
+		"/C/xampp/htdocs/php/message.php",
+		"/C/xampp/htdocs/php/index.php",
+		"/C/Users/AYEKIYPHYU/myfirstreact/src/Test.js",
+		"/C/Users/AYEKIYPHYU/Desktop/react.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"somewhere",
+			"ArrowRight",
+			"mt-10",
+			"holder.js",
+			"ReactWather.js",
+			"style.css",
+			",\n",
+			"componentDidMount",
+			"_changeSelection",
+			"HighchartsReact",
+			"effect-milo",
+			"admin",
+			"AAA",
+			"<div class=\"col-md-4 mx-auto mt-4\">\n      <button type=\"submit\" name=\"save\" class=\"btn btn-primary\"><i class=\"fa fa-save\" aria-hidden=\"true\"></i> Save</button>\n    </div>",
+			"AAA",
+			"AAAA",
+			"Dummy",
+			" $id  ",
+			"header",
+			"Name",
+			"Phone",
+			"radio",
+			"Back",
+			"Bcak",
+			"View Employee"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Work.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								619,
+								558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 421.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/About.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1183,
+								1183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/Home.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2841,
+								2841
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3193.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 428.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mytest.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\AYEKIYPHYU\\myproject\\mytest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\n                                            reason: reason,\n                                            plugins: plugins ||"
+			]
+		],
+		"width": 1050.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
