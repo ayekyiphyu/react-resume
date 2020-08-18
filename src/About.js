@@ -7,20 +7,15 @@ import aboutimg from './images/test.png';
 import { Col, Row, Button, Container, Card} from 'react-bootstrap';
 
 function shoot(){
-  alert('Great Shoot');
-
+  alert('thanks');
 }
-
  export default class About extends Component {
-
-
  colorBackground() {
   document.body.style.backgroundColor = "black";
   document.body.style.color="white"
   }
-
 clearBackground() {
-  document.body.style.backgroundColor = "white"
+   document.body.style.backgroundColor = "white"
    document.body.style.color="black"
 }
 

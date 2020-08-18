@@ -22,9 +22,7 @@ class Header extends React.Component {
              <Row>
                 <Col md={6} style={{backgroundColor: " #FFF3DC", padding: "20px"}}><h1>Workflow</h1>
                 <h5>Main work is FrontEnd and UI/UX</h5>
-                <a href="./work" class="linked">
-                     <p class="mt-15 text-right">More Details  <ArrowRight color="royalblue" size={30} /></p>
-                </a>
+                
                 </Col>
                 <Col md={6} style={{backgroundColor: " #FFF3DC", padding: "20px"}}>
                   <div class="flex-container">
@@ -62,7 +60,9 @@ class Header extends React.Component {
                        <Col md={9}>Handover & launch</Col>
                        </Row>
                     </div>
-
+                   <a href="./work" class="linked">
+                     <p class="mt-15 text-right">More Details  <ArrowRight color="royalblue" size={30} /></p>
+                  </a>
                   </div>
                 </Col>
              </Row>
